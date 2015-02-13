@@ -26,5 +26,5 @@ Polygon
 ------
 <img src="http://mpriess.com/images/blog/polygon.png" />
 
-
 [![Dependency Status](https://www.versioneye.com/user/projects/50466efa9a9d4a0002001162/badge.png)](https://www.versioneye.com/user/projects/50466efa9a9d4a0002001162)
+[![Build Status](https://api.travis-ci.org/kosgeinsky/GeoJSON-POJO.png?branch=master)](http://travis-ci.org/kosgeinsky/GeoJSON-POJO)
